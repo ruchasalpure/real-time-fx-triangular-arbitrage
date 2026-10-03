@@ -1,8 +1,0 @@
-{
-  "agent_id": "real-time-fx-triangular-arbitrage",
-  "protocol": "opencode/v1",
-  "capabilities": [
-    "autonomous",
-    "governed"
-  ]
-}
