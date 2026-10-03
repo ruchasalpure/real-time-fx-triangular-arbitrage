@@ -1,0 +1,6 @@
+app:
+  name: "real-time-fx-triangular-arbitrage"
+  environment: "production"
+  logging:
+    level: "INFO"
+    format: "json"
